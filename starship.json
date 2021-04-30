@@ -1,0 +1,7 @@
+{   
+    "name": "Star Hopper",
+    "buildHistory": [{ "date": "2020-10-10", "comment": "Star hopper is awesome", "sources": [] }],
+    "testHistory": [{ "date": "2020-10-10", "comment": "Star hopper is awesome", "sources": [] }],
+    "updateHistory": [{ "date": "2020-10-10", "comment": "Star hopper is awesome", "sources": [] }],
+    "status": [{ "date": "2020-10-10", "comment": "Star hopper is awesome", "status": "Retired"}]
+}

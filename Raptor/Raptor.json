@@ -1,0 +1,12 @@
+{
+    "date": "2019-01-05",
+    "comment": "First hopper engine to fire is almost finished, maybe fires in 1 month",
+    "source": [
+        {
+            "type": "Tweet",
+            "name": "Twitter",
+            "author": "Elon Musk",
+            "link": "https://twitter.com/elonmusk/status/1081572521105707009"
+        }
+    ]
+}

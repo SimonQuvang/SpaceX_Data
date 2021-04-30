@@ -1,0 +1,171 @@
+{
+    "name": "Star Hopper",
+    "buildHistory": [
+        {
+            "date": "2018-12-31",
+            "comment": "Star Hopper spotted with 3 Raptors made of development & operational parts",
+            "source": [
+                {
+                    "type": "Forum",
+                    "name": "nasaspaceflight",
+                    "link": "https://forum.nasaspaceflight.com/index.php?topic=47120.msg1920974#msg1920974"
+                },
+                {
+                    "type": "Tweet",
+                    "name": "Twitter",
+                    "author": "Elon Musk",
+                    "link": "https://twitter.com/elonmusk/status/1081572521105707009"
+                }
+            ]
+        },
+        {
+            "date": "2019-03-08",
+            "comment": "Hopper moved to launch pad",
+            "source": [{ "type": "Video", "name": "Youtube", "link": "https://www.youtube.com/watch?v=qIFpLblpC-E" }]
+        },
+        {
+            "date": "2019-03-11",
+            "comment": "Raptor (SN2) has arrived at South Texas Launch Site",
+            "source": [
+                {
+                    "type": "Forum",
+                    "name": "nasaspaceflight",
+                    "link": "https://forum.nasaspaceflight.com/index.php?topic=47120.msg1920974#msg1920974"
+                }
+            ]
+        },
+        {
+            "date": "2019-04-03",
+            "comment": "Raptor SN3 on test stand",
+            "source": [
+                {
+                    "type": "Article",
+                    "name": "NASASpaceflight.com",
+                    "Author": "Chris Gebhardt",
+                    "link": "https://www.nasaspaceflight.com/2019/04/starhopper-first-flight-starship-superheavy-updates/"
+                }
+            ]
+        },
+        { "date": "2019-04-08", "comment": "Raptor (SN2) removed and shipped away.", "source": [] }
+    ],
+    "testHistory": [
+        {
+            "date": "2019-04-05",
+            "comment": "Tethered Hop (Twitter)",
+            "source": [
+                {
+                    "type": "Tweet",
+                    "name": "Twitter",
+                    "author": "Elon Musk",
+                    "link": "https://twitter.com/elonmusk/status/1114390314565787648?s=19"
+                }
+            ]
+        },
+        {
+            "date": "2019-04-03",
+            "comment": "Static Fire Successful",
+            "source": [
+                {
+                    "type": "Video",
+                    "name": "YouTube",
+                    "Author": "NASASpaceflight",
+                    "link": "https://youtu.be/5vfiM10lc1M"
+                }
+            ]
+        },
+        {
+            "date": "2019-03-30",
+            "comment": "Testing March 30 & April 1",
+            "source": [
+                {
+                    "type": "Video",
+                    "name": "YouTube",
+                    "author": "NASASpaceflight",
+                    "link": "https://www.youtube.com/watch?v=vOUrIPebGlI"
+                }
+            ]
+        },
+        { "date": "2019-04-02", "comment": "Testing April 2-3", "source": [] },
+
+        {
+            "date": "2019-03-27",
+            "comment": "Testing March 27-28",
+            "source": [
+                {
+                    "type": "Article",
+                    "name": "The Monitor",
+                    "author": "NASASpaceflight",
+                    "link": "https://www.youtube.com/watch?v=iOv34Tfabng"
+                }
+            ]
+        },
+        {
+            "date": "2019-03-21",
+            "comment": "Road closed for testing",
+            "source": [
+                {
+                    "type": "Article",
+                    "name": "The Monitor",
+                    "link": "https://www.themonitor.com/2019/03/21/spacex-conducts-first-tests-requiring-closures-boca-chica-beach/"
+                }
+            ]
+        },
+        { "date": "2019-03-22", "comment": "Road closed for testing", "source": [{}] },
+        {
+            "date": "2019-03-25",
+            "comment": "Testing and dramatic venting / preburner test",
+            "source": [
+                {
+                    "type": "Video",
+                    "name": "YouTube",
+                    "author": "NASASpaceflight",
+                    "link": "https://youtu.be/cOm4S8y59Hg?t=15023"
+                }
+            ]
+        },
+        {
+            "date": "2019-04-02",
+            "comment": "Prevalve icing challenges",
+            "source": [
+                {
+                    "type": "Tweet",
+                    "name": "Twitter",
+                    "author": "Elon Musk",
+                    "link": "https://twitter.com/elonmusk/status/1113000800526036992"
+                }
+            ]
+        },
+        {
+            "date": "2019-03-14",
+            "comment": "Tanking test",
+            "source": [
+                {
+                    "type": "Tweet",
+                    "name": "Twitter",
+                    "author": "Chris B - NSF",
+                    "link": "https://twitter.com/NASASpaceflight/status/1106334896711221257"
+                },
+                {
+                    "type": "Forum",
+                    "name": "NasaSpaceflight",
+                    "author": "Mary BocaChicaGal",
+                    "link": "https://forum.nasaspaceflight.com/index.php?topic=47120.msg1922458#msg1922458"
+                }
+            ]
+        }
+    ],
+    "updates": [
+        {
+            "date": "2018-12-22",
+            "comment": "Test(Star) Hopper to be full body diameter",
+            "source": [
+                {
+                    "type": "Tweet",
+                    "name": "Twitter",
+                    "author": "Elon Musk",
+                    "link": "https://twitter.com/elonmusk/status/1076612033011826688"
+                }
+            ]
+        }
+    ]
+}
